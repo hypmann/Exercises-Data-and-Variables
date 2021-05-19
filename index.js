@@ -20,7 +20,7 @@ let marsDays =(7984.285714285715 / 24);
 console.log(marsMiles);
 console.log(marsHours);
 console.log(marsDays);
-console.log(nameOfTheSpaceShuttle, "will take", marsDays, "days to reach Mars.");
+console.log(nameOfTheSpaceShuttle + " will take " + (marsDays) + " days to reach Mars.");
 
 // Code your solution to exercise 5 here:
 let moonMiles =(384400 * 0.621);
@@ -30,4 +30,4 @@ let moonDays =(13.64070857142857 / 24);
 console.log(moonMiles);
 console.log(moonHours);
 console.log(moonDays);
-console.log(nameOfTheSpaceShuttle + "will take" + (moonDays) + "days to reach the Moon.");
+console.log(nameOfTheSpaceShuttle  + " will take " + (moonDays) + " days to reach the Moon.");
